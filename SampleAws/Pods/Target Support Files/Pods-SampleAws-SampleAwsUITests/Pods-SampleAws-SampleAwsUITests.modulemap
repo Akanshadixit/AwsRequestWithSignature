@@ -1,0 +1,6 @@
+framework module Pods_SampleAws_SampleAwsUITests {
+  umbrella header "Pods-SampleAws-SampleAwsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
